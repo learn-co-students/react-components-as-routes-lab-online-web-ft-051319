@@ -3,7 +3,6 @@ let movies = [
     title: 'Doctor Strange',
     time: 115,
     genres: ['Action', 'Adventure', 'Fantasy'],
-    metascore: 74
   },
   {
     title: 'Trolls',
